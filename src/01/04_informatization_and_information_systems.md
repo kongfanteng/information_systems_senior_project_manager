@@ -220,4 +220,4 @@
   - 2.面向过程是一种自顶向下的编程。
   - 3.而面向对象是自下先建立抽象模型然后再使用模型
 
-## 4、[剩下太多，看 pdf 文档](./resource/file/04_informatization_and_information_systems.pdf)
+## 4、[剩下太多，看 pdf 文档](../../public/file/04_informatization_and_information_systems.pdf)
